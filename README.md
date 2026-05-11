@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Reuel Fernandes 👋
 
-<!--
-**Reuel737/Reuel737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aerospace Engineering student at UFSC Joinville  
+💻 Software developer focused on AI workflows, automation systems, backend architecture, and engineering tools  
+✈️ Performance engineering team member at Nisus Aerodesign  
+🧠 Building AI-powered systems, intelligent automation tools, and technical software projects
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI-assisted engineering workflows
+- Backend systems and scalable architectures
+- Automation and intelligent operational tools
+- CFD acceleration research using AI
+- Embedded systems and hardware automation
+- SaaS development and integrations
+
+## Tech Stack
+
+- Python
+- C++
+- JavaScript / TypeScript
+- Firebase
+- Supabase
+- REST APIs
+- Git & GitHub
+- AI integrations and workflow automation
+
+## Projects
+
+### AI-Assisted CFD Acceleration
+Development and experimentation with AI-based approaches for computational fluid dynamics acceleration, engineering workflows, and performance-oriented simulations.
+
+### Leason
+AI-powered vacation rental and property management platform focused on operational automation, intelligent workflows, customer support systems, and channel management integrations.
+
+### Nisus Aerodesign
+Performance engineering and technical development for competitive aerodesign projects, including analysis, optimization, and engineering workflows.
+
+### Composite Material Curing Chamber
+Developed a curing chamber system for composite material applications using C++-based control logic, integrating automation concepts, temperature management, and hardware/software interaction.
+
+## Interests
+
+- Artificial Intelligence
+- Aerospace Engineering
+- Computational Simulation
+- Automation Systems
+- Embedded Systems
+- Scalable SaaS Architecture
+- Engineering Optimization
+- Developer Productivity
+
+## Currently Learning
+
+- AI agents and orchestration
+- Scalable backend infrastructure
+- Intelligent automation pipelines
+- Engineering simulation workflows
+- Applied AI for technical systems
+
+---
+
+> “Technology becomes powerful when it solves real operational problems.”
